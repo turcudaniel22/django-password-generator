@@ -98,10 +98,8 @@ django-password-generator/
 ## 📸 Screenshots  
 
 ### Home Page  
-![Home Page Screenshot](link-to-homepage-screenshot)  
 
 ### Password Generator  
-![Password Generator Screenshot](link-to-generator-screenshot)  
 
 ---
 
