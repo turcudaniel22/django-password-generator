@@ -1,4 +1,4 @@
-```markdown
+
 # Django Password Generator  
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-4.2-green.svg?logo=django&logoColor=white)  
