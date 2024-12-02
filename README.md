@@ -33,6 +33,7 @@ django-password-generator/
     ├── urls.py
     ├── wsgi.py
     └── asgi.py
+
 🚀 Quick Start
 
 Prerequisites
